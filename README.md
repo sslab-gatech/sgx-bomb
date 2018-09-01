@@ -19,8 +19,7 @@ with the default DRAM refresh rate, 64 ms.
 
 *Kernel version*: 4.15.0-33-generic
 
-*Intel SGX-SDK* : [SGX-2.2 <b0cc03a8184949cac76880449190d56dfb717cba>]
-(https://github.com/intel/linux-sgx/commit/b0cc03a8184949cac76880449190d56dfb717cba)
+*Intel SGX-SDK* : [SGX-2.2 <b0cc03a8184949cac76880449190d56dfb717cba>](https://github.com/intel/linux-sgx/commit/b0cc03a8184949cac76880449190d56dfb717cba)
  
 ## More details
 * Paper (**SysTEX 2017**):
